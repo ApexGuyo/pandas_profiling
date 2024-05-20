@@ -16,7 +16,7 @@ st.markdown('''---''')
 # uploadinf file section
 with st.sidebar.header("Upload your dataset(.csv)"):
     uploaded_file = st.sidebar.file_uploader("Upload your file", type=['csv'])
-    df = sns.load_dataset('titanic')
+    # df = sns.load_dataset('titanic')
  # st.sidebar.markdown("[Example csv file](df)")
 # profiling report
 
