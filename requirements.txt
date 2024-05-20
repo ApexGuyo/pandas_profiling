@@ -1,2 +1,6 @@
 seaborn==0.10.0
 streamlit==1.34.0
+streamlit_pandas_profiling==0.1.
+numpy==1.18.1
+pandas==1.o.1
+#ydata_profiling
