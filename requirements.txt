@@ -10,5 +10,4 @@ numpy==1.21.2
 opencv_python==4.5.5.62
 Pillow==9.0.1
 datetime
-wheel setuptools==0.43.0
 python==3.8
