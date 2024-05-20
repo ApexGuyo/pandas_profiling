@@ -1,1 +1,2 @@
 seaborn==0.10.0
+streamlit==1.34.0
